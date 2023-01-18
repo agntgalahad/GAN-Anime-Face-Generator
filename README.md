@@ -8,3 +8,8 @@ The model is trained on a local runtime.
 g_model is the generative model
 \
 d_model is the discriminator model
+\
+Images genererated:
+
+<p align="center">
+<img width="400" src="https://github.com/agntgalahad/stuff/blob/main/fake1.png?raw=true"></p>
