@@ -5,6 +5,9 @@ This is a Deeply Convolutional Generative Adversarial Network (DCGAN) that gener
 The model is trained on a local runtime.
 \
 \
+Datset Used: https://www.kaggle.com/datasets/soumikrakshit/anime-faces
+\
+\
 g_model is the generative model
 \
 d_model is the discriminator model
