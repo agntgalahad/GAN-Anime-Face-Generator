@@ -15,4 +15,4 @@ d_model is the discriminator model
 Images genererated:
 
 <p align="center">
-<img width="400" src="https://github.com/agntgalahad/stuff/blob/main/fake1.png?raw=true"></p>
+<img width="400" src="https://github.com/agntgalahad/stuff/blob/main/fake1.png"></p>
